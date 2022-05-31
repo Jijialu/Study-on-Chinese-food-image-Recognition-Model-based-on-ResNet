@@ -1,0 +1,151 @@
+absl-py==0.11.0
+antlr4-python3-runtime @ file:///D:/bld/antlr-python-runtime_1602352319407/work
+appdirs==1.4.4
+astropy @ file:///D:/bld/astropy_1631280755553/work
+atomicwrites==1.4.0
+attrs==20.2.0
+audioread==2.1.9
+backcall==0.2.0
+backports.functools-lru-cache @ file:///home/conda/feedstock_root/build_artifacts/backports.functools_lru_cache_1618230623929/work
+bindsnet==0.2.7
+bitarray==1.6.1
+Brian2 @ file:///D:/bld/brian2_1604364945051/work
+cached-property==1.5.2
+cachetools==4.1.1
+certifi==2021.10.8
+cffi==1.14.5
+chardet==3.0.4
+click==8.0.3
+cloudpickle==1.6.0
+colorama==0.4.4
+configparser==5.0.2
+cycler==0.10.0
+Cython @ file:///D:/bld/cython_1626221653636/work
+decorator==4.4.2
+dill @ file:///home/conda/feedstock_root/build_artifacts/dill_1623610058511/work
+docker-pycreds==0.4.0
+einops @ file:///home/conda/feedstock_root/build_artifacts/einops_1602792478173/work
+fastcache @ file:///D:/bld/fastcache_1605447314762/work
+ftfy @ file:///home/conda/feedstock_root/build_artifacts/ftfy_1621924325797/work
+future==0.18.2
+gitdb==4.0.9
+GitPython==3.1.24
+google-auth==1.23.0
+google-auth-oauthlib==0.4.2
+googledrivedownloader==0.4
+grpcio==1.33.2
+gym==0.18.0
+h5py==3.4.0
+hiddenlayer==0.3
+hydra-core @ file:///home/conda/feedstock_root/build_artifacts/hydra-core_1629433216282/work
+idna==2.10
+imageio==2.9.0
+importlib-metadata @ file:///D:/bld/importlib-metadata_1630267685983/work
+importlib-resources @ file:///home/conda/feedstock_root/build_artifacts/importlib_resources_1634604939720/work
+iniconfig==1.1.1
+ipython==7.19.0
+ipython-genutils==0.2.0
+isodate==0.6.0
+jax==0.2.16
+jedi==0.17.2
+Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1633656206378/work
+joblib==1.0.1
+jsonpatch==1.31
+jsonpointer==2.0
+kiwisolver==1.2.0
+klepto @ file:///home/conda/feedstock_root/build_artifacts/klepto_1623827846255/work
+librosa==0.8.0
+libtiff==0.4.2
+llvmlite==0.36.0
+Mako==1.1.4
+Markdown==3.3.3
+MarkupSafe @ file:///D:/bld/markupsafe_1621455845013/work
+matplotlib==3.3.2
+mpmath @ file:///home/conda/feedstock_root/build_artifacts/mpmath_1612895720168/work
+natsort==8.0.2
+networkx==2.5
+numba==0.53.1
+numpy @ file:///D:/bld/numpy_1634853096810/work
+oauthlib==3.1.0
+omegaconf @ file:///D:/bld/omegaconf_1629433430550/work
+opencv-python==4.4.0.44
+opt-einsum==3.3.0
+packaging==20.4
+pandas==1.1.5
+parso==0.7.1
+pathtools==0.1.2
+pickleshare==0.7.5
+Pillow==7.2.0
+pluggy==0.13.1
+plyfile==0.7.4
+pooch==1.3.0
+pox @ file:///home/conda/feedstock_root/build_artifacts/pox_1623773830989/work
+promise==2.3
+prompt-toolkit==3.0.8
+protobuf==3.13.0
+psutil==5.8.0
+py==1.9.0
+py-cpuinfo @ file:///home/conda/feedstock_root/build_artifacts/py-cpuinfo_1618826601027/work
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pycparser==2.20
+pycuda==2021.1
+pyerfa @ file:///D:/bld/pyerfa_1623068031414/work
+pyglet==1.5.0
+Pygments==2.7.2
+pylibtiff @ file:///C:/Users/98471/Downloads/pylibtiff-0.4.2-cp37-cp37m-win_amd64.whl
+pyparsing==2.4.7
+pytest==6.1.1
+python-dateutil==2.8.1
+python-Levenshtein @ file:///D:/bld/python-levenshtein_1612200707073/work
+pytools==2021.2.8
+pytz==2021.1
+PyWavelets==1.1.1
+PyYAML==6.0
+pyzmq==22.0.3
+rdflib==6.0.1
+regex @ file:///D:/bld/regex_1636504283298/work
+requests==2.25.0
+requests-oauthlib==1.3.0
+resampy==0.2.2
+rsa==4.6
+scikit-image==0.17.2
+scikit-learn==0.24.1
+scipy @ file:///C:/bld/scipy_1628206526167/work
+sentencepiece==0.1.95
+sentry-sdk==1.4.3
+shortuuid==1.0.1
+six==1.15.0
+smmap==5.0.0
+SoundFile==0.10.3.post1
+spafe==0.1.2
+subprocess32==3.5.4
+sympy==1.5.1
+tensorboard==2.4.0
+tensorboard-plugin-wit==1.7.0
+tensorboardX==2.1
+termcolor==1.1.0
+threadpoolctl==2.1.0
+tifffile==2020.10.1
+toml==0.10.1
+torch @ file:///E:/zjh/torch-1.6.0%2Bcu101-cp37-cp37m-win_amd64.whl
+torch-geometric==1.4.1
+torchfile==0.1.0
+torchnet==0.0.4
+torchstat==0.0.7
+torchsummary==1.5.1
+torchvision @ file:///E:/zjh/torchvision-0.7.0%2Bcu101-cp37-cp37m-win_amd64.whl
+tornado==6.1
+tqdm==4.59.0
+traitlets==5.0.5
+typing-extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1632313171031/work
+urllib3==1.26.2
+visdom==0.1.8.9
+wandb==0.12.6
+wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1600965781394/work
+websocket-client==0.58.0
+Werkzeug==1.0.1
+wincertstore==0.2
+yacs==0.1.8
+yaspin==2.1.0
+zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1633302054558/work
